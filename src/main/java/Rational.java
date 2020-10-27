@@ -113,7 +113,7 @@ public class Rational
     }
 
 
-    // This returns a string representation of a Rational (e.g. "1/2")
+    // This returns a string representation of a Rational (e.g. "1/2")//
     @Override
     public String toString()
     {
