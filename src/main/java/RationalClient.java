@@ -9,7 +9,8 @@ public class RationalClient {
         System.out.println(r.numerator);
         System.out.println(r.denominator);
 
-        // Rational s = new Rational(1, 3);
+         //Rational s = new Rational(1, 3);
+         //Boolean b = r.isImproper();
         // System.out.println(s);
         // Rational t = Rational.add(r, s);
         // System.out.println(t);
